@@ -41,8 +41,8 @@ pip install -r requirement.txt
 >> bash run_noco.sh 1 FBDB15K norm 0.2 0 
 # FBYG15K
 >> bash run_noco.sh 1 FBYG15K norm 0.8 0 
-bash run_noco.sh 1 FBYG15K norm 0.5 0 
-bash run_noco.sh 1 FBYG15K norm 0.2 0
+>> bash run_noco.sh 1 FBYG15K norm 0.5 0 
+>> bash run_noco.sh 1 FBYG15K norm 0.2 0
 ```
 ## Dataset
 Download from [GoogleDrive](https://drive.google.com/file/d/1qweGZPvsqVOJf9ORs0kc8Eo2rCY7g3mM/view?usp=sharing) and unzip it to make those files **satisfy the following file hierarchy**:
